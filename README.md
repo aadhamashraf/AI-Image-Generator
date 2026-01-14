@@ -91,7 +91,7 @@ The web app will be available at `http://localhost:3000`
 ## Project Structure
 
 ```
-Project #5/
+ai-image-generator/
 ├── backend/
 │   ├── main.py                 # FastAPI application
 │   ├── verify_models.py        # Script to verify model availability
