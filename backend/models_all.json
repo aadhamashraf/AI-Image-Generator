@@ -1,0 +1,502 @@
+[
+    {
+        "id": "black-forest-labs/FLUX.1-schnell",
+        "name": "FLUX.1 Schnell",
+        "provider": "Black Forest Labs",
+        "speed": "fast",
+        "quality": "excellent",
+        "style": "general",
+        "description": "Fast, high-quality general purpose model",
+        "supports_config": true
+    },
+    {
+        "id": "black-forest-labs/FLUX.1-dev",
+        "name": "FLUX.1 Dev",
+        "provider": "Black Forest Labs",
+        "speed": "medium",
+        "quality": "exceptional",
+        "style": "general",
+        "description": "12B parameter model with exceptional quality",
+        "supports_config": true
+    },
+    {
+        "id": "stabilityai/stable-diffusion-3.5-large",
+        "name": "Stable Diffusion 3.5 Large",
+        "provider": "Stability AI",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "general",
+        "description": "Latest SD model with improved prompt understanding",
+        "supports_config": true
+    },
+    {
+        "id": "stabilityai/stable-diffusion-3.5-large-turbo",
+        "name": "SD 3.5 Large Turbo",
+        "provider": "Stability AI",
+        "speed": "fast",
+        "quality": "excellent",
+        "style": "general",
+        "description": "Faster version with maintained quality",
+        "supports_config": true
+    },
+    {
+        "id": "stabilityai/stable-diffusion-3-medium",
+        "name": "Stable Diffusion 3 Medium",
+        "provider": "Stability AI",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "general",
+        "description": "Balanced speed and quality",
+        "supports_config": true
+    },
+    {
+        "id": "stabilityai/stable-diffusion-xl-base-1.0",
+        "name": "SDXL 1.0 Base",
+        "provider": "Stability AI",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Photorealistic with coherent anatomy",
+        "supports_config": true
+    },
+    {
+        "id": "stabilityai/sdxl-turbo",
+        "name": "SDXL Turbo",
+        "provider": "Stability AI",
+        "speed": "very-fast",
+        "quality": "good",
+        "style": "general",
+        "description": "Real-time generation optimized",
+        "supports_config": true
+    },
+    {
+        "id": "RunDiffusion/Juggernaut-XL-v9",
+        "name": "Juggernaut XL v9",
+        "provider": "RunDiffusion",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "cinematic",
+        "description": "Cinematic flair and photorealistic richness",
+        "supports_config": true
+    },
+    {
+        "id": "RunDiffusion/Juggernaut-X-v10",
+        "name": "Juggernaut XL v10",
+        "provider": "RunDiffusion",
+        "speed": "medium",
+        "quality": "exceptional",
+        "style": "cinematic",
+        "description": "Latest version with improved quality",
+        "supports_config": true
+    },
+    {
+        "id": "SG161222/RealVisXL_V4.0",
+        "name": "RealVisXL V4",
+        "provider": "SG161222",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Hyper-realistic human generation",
+        "supports_config": true
+    },
+    {
+        "id": "Lykon/dreamshaper-xl-1-0",
+        "name": "DreamShaper XL",
+        "provider": "Lykon",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "fantasy",
+        "description": "Balances realism and fantasy",
+        "supports_config": true
+    },
+    {
+        "id": "stabilityai/stable-diffusion-2-1",
+        "name": "Stable Diffusion 2.1",
+        "provider": "Stability AI",
+        "speed": "fast",
+        "quality": "good",
+        "style": "general",
+        "description": "Classic SD model, reliable",
+        "supports_config": true
+    },
+    {
+        "id": "stabilityai/stable-diffusion-2-1-base",
+        "name": "SD 2.1 Base",
+        "provider": "Stability AI",
+        "speed": "fast",
+        "quality": "good",
+        "style": "general",
+        "description": "Base version of SD 2.1",
+        "supports_config": true
+    },
+    {
+        "id": "Linaqruf/anything-v3.0",
+        "name": "Anything V3",
+        "provider": "Linaqruf",
+        "speed": "fast",
+        "quality": "excellent",
+        "style": "anime",
+        "description": "High-quality anime style generation",
+        "supports_config": true
+    },
+    {
+        "id": "stablediffusionapi/anything-v5",
+        "name": "Anything V5",
+        "provider": "StableDiffusionAPI",
+        "speed": "fast",
+        "quality": "excellent",
+        "style": "anime",
+        "description": "Latest anime model with improved details",
+        "supports_config": true
+    },
+    {
+        "id": "prompthero/openjourney-v4",
+        "name": "OpenJourney V4",
+        "provider": "PromptHero",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Midjourney-style artistic generation",
+        "supports_config": true
+    },
+    {
+        "id": "wavymulder/Analog-Diffusion",
+        "name": "Analog Diffusion",
+        "provider": "WavyMulder",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "vintage",
+        "description": "Analog photography aesthetic",
+        "supports_config": true
+    },
+    {
+        "id": "nitrosocke/Ghibli-Diffusion",
+        "name": "Ghibli Diffusion",
+        "provider": "Nitrosocke",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "anime",
+        "description": "Studio Ghibli art style",
+        "supports_config": true
+    },
+    {
+        "id": "nitrosocke/Arcane-Diffusion",
+        "name": "Arcane Diffusion",
+        "provider": "Nitrosocke",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Arcane TV series art style",
+        "supports_config": true
+    },
+    {
+        "id": "SG161222/Realistic_Vision_V5.1_noVAE",
+        "name": "Realistic Vision V5.1",
+        "provider": "SG161222",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Exceptional portrait quality",
+        "supports_config": true
+    },
+    {
+        "id": "digiplay/AbsoluteReality_v1.8.1",
+        "name": "Absolute Reality v1.8",
+        "provider": "Digiplay",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Ultra-realistic image generation",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/epiCRealism",
+        "name": "epiCRealism",
+        "provider": "Yntec",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Epic level realism",
+        "supports_config": true
+    },
+    {
+        "id": "dallinmackay/Van-Gogh-diffusion",
+        "name": "Van Gogh Diffusion",
+        "provider": "DallinMackay",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Van Gogh painting style",
+        "supports_config": true
+    },
+    {
+        "id": "Fictiverse/Stable_Diffusion_PaperCut_Model",
+        "name": "PaperCut Model",
+        "provider": "Fictiverse",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Paper cut art style",
+        "supports_config": true
+    },
+    {
+        "id": "artificialguybr/3DRedmond-V1",
+        "name": "3D Redmond V1",
+        "provider": "ArtificialGuyBR",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "3d",
+        "description": "3D render style",
+        "supports_config": true
+    },
+    {
+        "id": "Lykon/DreamShaper",
+        "name": "DreamShaper",
+        "provider": "Lykon",
+        "speed": "fast",
+        "quality": "excellent",
+        "style": "general",
+        "description": "Versatile dream-like imagery",
+        "supports_config": true
+    },
+    {
+        "id": "CompVis/stable-diffusion-v1-4",
+        "name": "Stable Diffusion 1.4",
+        "provider": "CompVis",
+        "speed": "fast",
+        "quality": "good",
+        "style": "general",
+        "description": "Original SD model, classic",
+        "supports_config": true
+    },
+    {
+        "id": "runwayml/stable-diffusion-v1-5",
+        "name": "Stable Diffusion 1.5",
+        "provider": "RunwayML",
+        "speed": "fast",
+        "quality": "good",
+        "style": "general",
+        "description": "Improved SD 1.x version",
+        "supports_config": true
+    },
+    {
+        "id": "dreamlike-art/dreamlike-photoreal-2.0",
+        "name": "Dreamlike Photoreal 2.0",
+        "provider": "Dreamlike Art",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "photorealistic",
+        "description": "Photorealistic dream imagery",
+        "supports_config": true
+    },
+    {
+        "id": "dreamlike-art/dreamlike-diffusion-1.0",
+        "name": "Dreamlike Diffusion 1.0",
+        "provider": "Dreamlike Art",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Artistic dream-like style",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/CyberRealistic",
+        "name": "CyberRealistic",
+        "provider": "Yntec",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Cyber-enhanced realism",
+        "supports_config": true
+    },
+    {
+        "id": "stablediffusionapi/deliberate-v2",
+        "name": "Deliberate V2",
+        "provider": "StableDiffusionAPI",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "general",
+        "description": "Deliberate, controlled generation",
+        "supports_config": true
+    },
+    {
+        "id": "Envvi/Inkpunk-Diffusion",
+        "name": "Inkpunk Diffusion",
+        "provider": "Envvi",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Punk illustration style",
+        "supports_config": true
+    },
+    {
+        "id": "Fictiverse/Stable_Diffusion_VoxelArt_Model",
+        "name": "VoxelArt Model",
+        "provider": "Fictiverse",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "3d",
+        "description": "Minecraft-like voxel art",
+        "supports_config": true
+    },
+    {
+        "id": "22h/vintedois-diffusion-v0-1",
+        "name": "Vintedois Diffusion",
+        "provider": "22h",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Vintage artistic style",
+        "supports_config": true
+    },
+    {
+        "id": "gsdf/Counterfeit-V2.5",
+        "name": "Counterfeit V2.5",
+        "provider": "GSDF",
+        "speed": "fast",
+        "quality": "excellent",
+        "style": "anime",
+        "description": "High-quality anime generation",
+        "supports_config": true
+    },
+    {
+        "id": "XpucT/Deliberate",
+        "name": "Deliberate",
+        "provider": "XpucT",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "general",
+        "description": "Versatile high-quality model",
+        "supports_config": true
+    },
+    {
+        "id": "WarriorMama777/OrangeMixs",
+        "name": "OrangeMixs",
+        "provider": "WarriorMama777",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "anime",
+        "description": "Anime with vibrant colors",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/RevAnimated",
+        "name": "RevAnimated",
+        "provider": "Yntec",
+        "speed": "fast",
+        "quality": "excellent",
+        "style": "anime",
+        "description": "Reverse-engineered animation style",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/ChilloutMix",
+        "name": "ChilloutMix",
+        "provider": "Yntec",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Relaxed photorealistic style",
+        "supports_config": true
+    },
+    {
+        "id": "Fictiverse/Stable_Diffusion_Microscopic_Model",
+        "name": "Microscopic Model",
+        "provider": "Fictiverse",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "scientific",
+        "description": "Microscopic imagery style",
+        "supports_config": true
+    },
+    {
+        "id": "claudfuen/photorealistic-fuen-v1",
+        "name": "Photorealistic Fuen V1",
+        "provider": "ClaudFuen",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Professional photography style",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/Lyriel",
+        "name": "Lyriel",
+        "provider": "Yntec",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "fantasy",
+        "description": "Fantasy and ethereal imagery",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/MoXin",
+        "name": "MoXin",
+        "provider": "Yntec",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Chinese ink painting style",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/Protogen",
+        "name": "Protogen",
+        "provider": "Yntec",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "sci-fi",
+        "description": "Sci-fi and futuristic style",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/Elldreth",
+        "name": "Elldreth",
+        "provider": "Yntec",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "fantasy",
+        "description": "Dark fantasy aesthetic",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/Colorful",
+        "name": "Colorful",
+        "provider": "Yntec",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Vibrant, colorful imagery",
+        "supports_config": true
+    },
+    {
+        "id": "Yntec/Pastel",
+        "name": "Pastel",
+        "provider": "Yntec",
+        "speed": "fast",
+        "quality": "very-good",
+        "style": "artistic",
+        "description": "Soft pastel color palette",
+        "supports_config": true
+    },
+    {
+        "id": "stablediffusionapi/edge-of-realism",
+        "name": "Edge of Realism",
+        "provider": "StableDiffusionAPI",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Pushing boundaries of realism",
+        "supports_config": true
+    },
+    {
+        "id": "stablediffusionapi/realistic-vision-v51",
+        "name": "Realistic Vision V5.1",
+        "provider": "StableDiffusionAPI",
+        "speed": "medium",
+        "quality": "excellent",
+        "style": "photorealistic",
+        "description": "Latest realistic vision model",
+        "supports_config": true
+    }
+]
